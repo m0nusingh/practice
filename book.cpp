@@ -36,7 +36,7 @@ public:
 	   cout<<"\n2.Book Type:- "<<type; 
 	   cout<<"\n3.Author:- "<<author;
 	   cout<<"\n4.desc:- "<<desc;
-	   cout<<"\nNo. of copies:- "<<pic;
+	   cout<<"\nNo. of copies:-"<<pic;
 	 }
 	 
 	 void changebookcount(void)
